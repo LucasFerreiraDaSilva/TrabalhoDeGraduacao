@@ -25,9 +25,11 @@ Módulo Wifi                 |    26,90
 Sensor de umidade           |    8,50
 **Total**                   |    **149,20**
 
+</div>
+
 **OBS.:** Na tabela de preços não foram considerados os valores de frete, pois existe a possibilidade de se comprar mais de um componente na mesma loja, aproveitando-se o mesmo valor para entrega.
 
-</div>
+
 
 <a name="ref"></a>
 
